@@ -2,7 +2,7 @@
 Medical Record sharing using existing Block Chain Network
 
 ## Team Member
-* Vinay R Hasan (20162041)
+* Vinay R (20162041)
 * Suryansh Agnihotri (20162037)
 * Sunny Ahlawat (20162068)
 
